@@ -10,7 +10,6 @@ Description:    This is a simple yet stylish URL shortener application built wit
 
  
 
-Feel free to contribute to this project by forking the repository and submitting pull requests!
 
 
 Live preview: https://ahmeddabbebi.github.io/URL-Shortener/
